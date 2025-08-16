@@ -1,17 +1,27 @@
-# ⚙️ Maryana Alves
+<div align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Style+Script&size=28&letterSpacing=0.1rem&duration=7000&pause=1000&color=AF5FF7&center=true&vCenter=true&width=435&lines=Seja+bem-vindo+ao+meu+perfil!+%E2%9C%A9" alt="Typing SVG"/>
+ </a>
+</div>
 
-**`Engenheira de Software`**
+<h1>Maryana Alves</h1>
 
-Olá! Sou Maryana Alves Silva, tenho 18 anos e estudo Engenharia de Software na Estácio. Estou começando na tecnologia e sou apaixonada pelo que essa área possibilita. Tenho interesse em aprender e crescer profissionalmente, buscando minha primeira oportunidade para aplicar meus estudos e explorar novos projetos funcionais na prática.
+**`⚙ Engenheira de Software`**
 
-<div style="display: inline_block"><br>
-<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+Olá! Meu nome é Maryana Alves Silva, tenho 18 anos e atualmente estou cursando o segundo período da graduação em Engenharia de Software na Estácio. Estou começando na área de tecnologia e sou apaixonada pelo que ela possibilita criar. Tenho interesse em aprender e evoluir profissionalmente, buscando minha primeira oportunidade para aplicar meus estudos e explorar novas experiências.
+
+##
+<h3 align="left">Linguagens~</h3>
+<div align="left">
+<img style="height:30px;" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img style="height:30px;" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img style="height:30px;" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+</div>
+
+<h3 align="left">Contate-me!</h3>
+<div align="left"> 
+<a href="https://www.instagram.com/maryismissing/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge"></a>
+<a href="https://www.linkedin.com/in/maryana-alves-33614a343/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge"></a>
+<a href="mailto:maryalvespro@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge"></a> 
 </div>
 
 ##
-
-<div> 
-<a href="https://www.linkedin.com/in/maryana-alves-33614a343/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>
