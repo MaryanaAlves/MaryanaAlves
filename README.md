@@ -20,7 +20,7 @@ Olá! Meu nome é Maryana Alves Silva, tenho 18 anos e atualmente curso o segund
 <h3 align="left">Contate-me!</h3>
 <div align="left"> 
 <a href="https://www.instagram.com/maryismissing/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge"></a>
-<a href="https://www.linkedin.com/in/maryana-alves-33614a343/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge"></a>
+<a href="https://www.linkedin.com/in/maryanaalvess/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge"></a>
 <a href="mailto:maryalvespro@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-MARYALVESPRO@GMAIL.COM-%23D14836?style=for-the-badge"></a> 
 </div>
 
