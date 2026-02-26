@@ -7,7 +7,7 @@
 
 **`⚙ Engenheira de Software`**
 
-Olá! Meu nome é Maryana Alves Silva, tenho 18 anos e atualmente curso o segundo período da graduação em Engenharia de Software na Estácio. Sou apaixonada pelo que a área de tecnologia possibilita criar e tenho interesse em aprender e evoluir profissionalmente, buscando minha primeira experiência.
+Olá! Meu nome é Maryana Alves Silva, tenho 18 anos e atualmente curso o terceiro período da graduação em Engenharia de Software na Estácio. Sou apaixonada pelo que a área de tecnologia possibilita criar e tenho interesse em aprender e evoluir profissionalmente, buscando minha primeira experiência.
 
 ##
 <h3 align="left">Linguagens~</h3>
