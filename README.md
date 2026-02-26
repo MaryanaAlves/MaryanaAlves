@@ -7,20 +7,23 @@
 
 **`⚙ Engenheira de Software`**
 
-Olá! Meu nome é Maryana Alves Silva, tenho 18 anos e atualmente curso o terceiro período da graduação em Engenharia de Software na Estácio. Sou apaixonada pelo que a área de tecnologia possibilita criar e tenho interesse em aprender e evoluir profissionalmente, buscando minha primeira experiência.
+Olá! Tenho 18 anos e sou estudante de Engenharia de Software.
+Tenho interesse na área de QA (Quality Assurance), com foco em testes e garantia da qualidade de software.
+
+Busco minha primeira oportunidade de estágio em TI para aplicar meus conhecimentos, desenvolver experiência prática e evoluir profissionalmente.
 
 ##
 <h3 align="left">Linguagens~</h3>
 <div align="left">
-<img style="height:30px;" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img style="height:30px;" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img style="height:30px;" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+<img style="height:30px;" alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+<img style="height:30px;" alt="PHP" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+<img style="height:30px;" alt="C" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
 </div>
 
 <h3 align="left">Contate-me!</h3>
 <div align="left"> 
 <a href="https://www.instagram.com/maryismissing/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge"></a>
-<a href="https://www.linkedin.com/in/maryanaalvess/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge"></a>
+<a href="https://www.linkedin.com/in/maryanaalvespro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge"></a>
 <a href="mailto:maryalvespro@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-MARYALVESPRO@GMAIL.COM-%23D14836?style=for-the-badge"></a> 
 </div>
 
