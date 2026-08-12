@@ -18,6 +18,8 @@ Busco minha primeira oportunidade de estágio em TI para aplicar meus conhecimen
 <img style="height:30px;" alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
 <img style="height:30px;" alt="PHP" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
 <img style="height:30px;" alt="C" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+<img style="height:30px;" alt="JavaScript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+
 </div>
 
 <h3 align="left">Contate-me!</h3>
