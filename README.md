@@ -12,6 +12,8 @@ Estou construindo minha base em tecnologia e programação, enquanto exploro dif
 
 Busco minha primeira oportunidade de estágio em TI para aplicar meus conhecimentos, desenvolver experiência prática e evoluir profissionalmente.
 
+🔗 **[Acesse meu portfólio](https://maryanaalves.github.io/maryanapage/index.html)**
+
 ##
 <h3 align="left">Linguagens~</h3>
 <div align="left">
