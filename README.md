@@ -7,8 +7,8 @@
 
 **`⚙ Engenheira de Software`**
 
-Olá! Tenho 18 anos e sou estudante de Engenharia de Software.
-Tenho interesse na área de QA (Quality Assurance), com foco em testes e garantia da qualidade de software.
+Olá! Tenho 19 anos e sou estudante de Engenharia de Software no 4ª período.
+Estou construindo minha base em tecnologia e programação, enquanto exploro diferentes áreas da TI.
 
 Busco minha primeira oportunidade de estágio em TI para aplicar meus conhecimentos, desenvolver experiência prática e evoluir profissionalmente.
 
